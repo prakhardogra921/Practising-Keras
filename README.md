@@ -1,1 +1,1 @@
-# imdb practice project
+# keras practice 
